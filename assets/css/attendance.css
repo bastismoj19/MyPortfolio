@@ -212,7 +212,7 @@
         margin-left: 10px;
     }
     .dashboard-content iframe{
-        width: 150%;
+        width: 30rem;
         height: 100%;        
         zoom: 0.5; /* Zooms the iframe content to 50% */
         border: none;
