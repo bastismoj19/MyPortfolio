@@ -73,9 +73,15 @@
     color: #fff;
 }
 
+.topnav .navbar li a i{
+    margin-right: 10px;
+}
+
 .topnav .navbar li:hover a{
     color: goldenrod;
 }
+
+
 
 @media (min-width: 900px) {
     .navbar {
@@ -153,6 +159,10 @@
     transition: 0.5s;
     position: relative;
     transform: scale(2);
+}
+
+.sidebar ul li a i{
+    margin-right: 10px;
 }
 
 .sidebar .nav a:after {
